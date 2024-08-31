@@ -21,7 +21,10 @@ Skills: Dart/Flutter
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-   <a href="https://www.linkedin.com/in/md-araful-islam/" target="_blank">LinkedIn Profile of Md Araful Islam</a>
+   <p>
+        <a href="https://www.linkedin.com/in/md-araful-islam/" target="_blank">LinkedIn Profile of Md Araful Islam</a>
+    </p>
+    <img src="[https://example.com/your-image.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSiEsPKQAUEEk7kmEy1Rb7YotukM86O286A&s)" alt="Profile Image" style="width:300px;height:auto;">
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
