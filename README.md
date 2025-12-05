@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Md Araful Islam**
-### 🚀 Flutter App Developer 
+### 🚀 Flutter & Full Stack Developer
 
 Assalamu Alaikum Wa Rahmatullah.  
 I’m **Md Araful Islam**, a passionate **Flutter Developer** from Bangladesh. I love building modern, fast, and scalable mobile applications. My goal is to become a top-level mobile app developer, Insha’Allah.
@@ -12,9 +12,8 @@ I enjoy writing clean code, exploring new technologies, and continuously improvi
 
 **Mobile Development**  
 - Flutter · Dart · Firebase  
-- GetX · Provider · MVC Architecture 
-- Clean Architecture · MVVM · State Management  
-- REST API Integration  · WebSocket  · Socket.IO  
+- GetX · Provider · MVC Architecture · Clean Architecture · MVVM · State Management  
+- REST API Integration · WebSocket · Socket.IO  
 - Hive · SQLite · SharedPreferences · Secure Storage  
 - Push Notifications · FCM · Background Services  
 - Google Maps · Geolocation · Location Tracking  
@@ -22,10 +21,21 @@ I enjoy writing clean code, exploring new technologies, and continuously improvi
 - Payment Gateway Integration (Stripe, PayPal, SSL-ecommerce)  
 - Animation & Custom UI Widgets · Lottie · Rive  
 
+**Web & Backend Development**  
+- JavaScript · Node.js · Express.js · MongoDB  
+- REST API Development · Real-time features (WebSocket / Socket.IO)  
+- Authentication & Authorization · JWT · Firebase Integration  
+- MVC Architecture & Backend Optimization  
 
-**Design & Tools**
-- Git · GitHub · Postman · VS Code · Android Studio  
-- Xcode · Canva  . Figma
+**Design & Tools**  
+- Git · GitHub · Postman · VS Code · Android Studio · Xcode  
+- Figma · Canva · Adobe XD · UI/UX Design & Optimization  
+
+## ☁️ Deployment & Hosting
+- **Netlify** —  
+- **Vercel** — Fullstack app hosting with serverless functions  
+- **Render** — Backend and fullstack app deployment (Node.js / MongoDB)  
+- **Play Store / App Store** — Mobile app distribution and release management  
 
 
 ## 💼 Professional Experience
