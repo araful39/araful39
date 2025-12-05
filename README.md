@@ -1,18 +1,78 @@
 
+Hi there 👋, I'm Md Araful Islam
+App Developer (Flutter)
 
-### Hi there 👋, I'm Md Araful islam
-#### App Developer (Flutter)
+Assalamu Alaikum Wa Rahmatullah — my name is Md Araful Islam. I am a Flutter developer who loves building clean, functional mobile apps. I enjoy learning and improving every day; Insha'Allah I will grow and succeed through honest work.
+
+**Skills: Dart · Flutter · Firebase · REST API · GetX · Provider · MVC Architecture · Hive · SQLite · Git · Figma · Google Maps API · WebSocket · Push Notifications · Clean Code
+
+🔭 I’m currently working on: Tour & Travel Booking App, Car Rental App, Real‑Time Chat App, Live Tracking App
+
+🌱 Learning advanced Clean Architecture, State Management, WebSocket, and Backend Integration
+
+👯 Open to collaboration on Flutter & Full‑Stack Mobile Projects
 
 
-Assalamu Alaikum Orahmatullah, my name is Md Araful islam. I am a flutter developer. I love coding. I live this work to establish and elevate myself. In Sha Allah one day I will be successful and develop myself honestly
+Developing scalable Flutter apps with clean architecture (Provider, GetX, MVC)
 
-Skills: Dart/Flutter
+Integrating REST APIs, Firebase, WebSocket real‑time features
 
-- 🔭 I’m currently working on Tour and Travels Booking App
-- 🔭  Car Rental Booking App 
-- 🌱 I’m currently learning Dart Programming 
-- 👯 I’m looking to collaborate on Githubs 
-- 💬 Ask me about *Flutter App Developer*
+Building real-time chat, live tracking, notifications & dynamic forms
+
+Working on Play Store publishing and app maintenance
+
+Improving UI/UX, performance, and code quality
+
+Connect with me
+
+✉️ Email: rajuslam39@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/md-araful-islam/
+
+👍 Facebook: https://www.facebook.com/mdarafulislam.raju.73
+
+
+
+Experience
+💼 Current Position
+
+Flutter Developer — Softvence Agency, Bangladesh
+November,2024 — Present
+
+Building modern, scalable Flutter applications for clients
+
+Working with REST APIs, Firebase, Provider, GetX, and custom MVC architecture
+
+Developing real‑time features (chat, notifications, tracking)
+
+Publishing apps to Play Store and managing full app lifecycle
+
+Improving UI/UX, performance, and writing clean, maintainable code
+
+💼 Previous Experience
+
+Flutter Intern — Classic IT & Sky Mart, Bangladesh
+April,2024 - October,2024
+
+Completed hands‑on Flutter internship focusing on UI development and API integration
+
+Built small‑scale apps, worked with Firebase, REST APIs, and local storage
+
+Gained experience with responsive UI, state management, and debugging
+
+
+💼 Additional Professional Work
+
+Published 5+ Flutter projects on CodeCanyon Marketplace
+
+Built complete apps such as:
+
+✔️ Tour & Travel Booking App
+
+✔️ Car Rental Booking App
+
+
+Experienced in Play Store publishing, branding, app setup & maintenance
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
