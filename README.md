@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Md Araful Islam**
-### 🚀 Flutter App Developer | Mobile UI/UX Enthusiast
+### 🚀 Flutter App Developer 
 
 Assalamu Alaikum Wa Rahmatullah.  
 I’m **Md Araful Islam**, a passionate **Flutter Developer** from Bangladesh. I love building modern, fast, and scalable mobile applications. My goal is to become a top-level mobile app developer, Insha’Allah.
@@ -10,16 +10,23 @@ I enjoy writing clean code, exploring new technologies, and continuously improvi
 
 ## 🔥 Skills & Technologies
 
-**Mobile Development**
+**Mobile Development**  
 - Flutter · Dart · Firebase  
-- GetX · Provider · MVC Architecture  
-- Clean Architecture · State Management  
-- REST API Integration · WebSocket · Hive / SQLite  
+- GetX · Provider · MVC Architecture 
+- Clean Architecture · MVVM · State Management  
+- REST API Integration  · WebSocket  · Socket.IO  
+- Hive · SQLite · SharedPreferences · Secure Storage  
+- Push Notifications · FCM · Background Services  
+- Google Maps · Geolocation · Location Tracking  
+- Camera & Media Integration · Image Picker · Video Player  
+- Payment Gateway Integration (Stripe, PayPal, SSL-ecommerce)  
+- Animation & Custom UI Widgets · Lottie · Rive  
+
 
 **Design & Tools**
-- Git · GitHub · Figma · Postman  
-- Google Maps API  
-- UI/UX design & optimization  
+- Git · GitHub · Postman · VS Code · Android Studio  
+- Xcode · Canva  . Figma
+
 
 ## 💼 Professional Experience
 
@@ -59,6 +66,36 @@ Live demo and explanation video of client projects.
 April,2024  - October,2024  
 - Worked on multiple client-based mobile apps  
 - Learned Flutter basics, state management & clean UI design  
+
+
+## 💎 My CodeCanyon Products
+
+I have **5 approved CodeCanyon products** published, including the following:
+
+### 📱 **My Parlor App**  
+Online parlour service booking app template.  
+✔ Firebase Integration & Beautiful UI  
+✔ Appointment booking, service management, notifications  
+[View on CodeCanyon](https://codecanyon.net/item/my-parlor-app/your-item-id)  
+
+### 🐦 **Bird Finder App**  
+Marketplace app for buying & selling birds.  
+✔ Real-time updates & category-based listing  
+✔ Search, filter, and favorite features  
+✔ Chat functionality for buyers and sellers  
+[View on CodeCanyon](https://codecanyon.net/item/bird-finder-app/your-item-id)  
+
+### ⚙️ **Project 3**  
+Brief description of the app, features, and link.  
+[View on CodeCanyon](https://codecanyon.net/item/project-3/your-item-id)  
+
+### ⚙️ **Project 4**  
+Brief description of the app, features, and link.  
+[View on CodeCanyon](https://codecanyon.net/item/project-4/your-item-id)  
+
+### ⚙️ **Project 5**  
+Brief description of the app, features, and link.  
+[View on CodeCanyon](https://codecanyon.net/item/project-5/your-item-id)  
 
 
 <h3 align="left">Connect with me:</h3>
