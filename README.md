@@ -30,7 +30,7 @@ I enjoy writing clean code, exploring new technologies, and continuously improvi
 
 ## 💼 Professional Experience
 
-### **Flutter Developer — bdCalling, Bangladesh**  
+### **Flutter Developer — Softvence Agency, Bangladesh**  
 *November,2024 – Present*  
 - Developing scalable & production-ready Flutter apps  
 - Integrating REST APIs, Firebase, WebSocket  
@@ -72,30 +72,21 @@ April,2024  - October,2024
 
 I have **5 approved CodeCanyon products** published, including the following:
 
-### 📱 **My Parlor App**  
-Online parlour service booking app template.  
-✔ Firebase Integration & Beautiful UI  
-✔ Appointment booking, service management, notifications  
-[View on CodeCanyon](https://codecanyon.net/item/my-parlor-app/your-item-id)  
+- **Go Travel Flutter** — Full UI template for Tour & Travels apps  
+  [View on CodeCanyon](https://codecanyon.net/item/go-travel-flutter-full-ui-for-tour-and-travels/53875790)  
 
-### 🐦 **Bird Finder App**  
-Marketplace app for buying & selling birds.  
-✔ Real-time updates & category-based listing  
-✔ Search, filter, and favorite features  
-✔ Chat functionality for buyers and sellers  
-[View on CodeCanyon](https://codecanyon.net/item/bird-finder-app/your-item-id)  
+- **Car Rental Flutter App** — Full UI template for Car Rental services  
+  [View on CodeCanyon](https://codecanyon.net/item/car-rental-flutter-app-flutter-full-ui-template/54128439)  
 
-### ⚙️ **Project 3**  
-Brief description of the app, features, and link.  
-[View on CodeCanyon](https://codecanyon.net/item/project-3/your-item-id)  
+- **BirdBuy Online Bird Buy App** — Online marketplace app for buying birds (Flutter)  
+  [View on CodeCanyon](https://codecanyon.net/item/birdbuy-online-bird-buy-app-flutter-mobile-template-full-app-flutter-3x-android-ios/54738417)  
 
-### ⚙️ **Project 4**  
-Brief description of the app, features, and link.  
-[View on CodeCanyon](https://codecanyon.net/item/project-4/your-item-id)  
+- **PetFoodi Online Pet Foods App** — Full Flutter app template for pet food ordering & delivery  
+  [View on CodeCanyon](https://codecanyon.net/item/petfoodi-online-pet-foods-app-in-full-app-flutter-mobile-template-flutter-3x-android-ios/54741625)  
 
-### ⚙️ **Project 5**  
-Brief description of the app, features, and link.  
-[View on CodeCanyon](https://codecanyon.net/item/project-5/your-item-id)  
+- **Toolbox Pro Online Tools & Parts Finder** — App template for tools/parts finder & eCommerce (Flutter)  
+  [View on CodeCanyon](https://codecanyon.net/item/toolbox-pro-online-tools-parts-finder-app-in-full-app-flutter-mobile-template-flutter-3x-an/54818018)  
+
 
 
 <h3 align="left">Connect with me:</h3>
