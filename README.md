@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Md Araful Islam**
-### 🚀 Flutter & Full Stack Developer
+### 🚀 Flutter Developer
 
 Assalamu Alaikum Wa Rahmatullah.  
 I’m **Md Araful Islam**, a passionate **Flutter Developer** from Bangladesh. I love building modern, fast, and scalable mobile applications. My goal is to become a top-level mobile app developer, Insha’Allah.
