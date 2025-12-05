@@ -1,78 +1,65 @@
+# 👋 Hi, I'm **Md Araful Islam**
+### 🚀 Flutter App Developer | Mobile UI/UX Enthusiast
 
-Hi there 👋, I'm Md Araful Islam
-App Developer (Flutter)
+Assalamu Alaikum Wa Rahmatullah.  
+I’m **Md Araful Islam**, a passionate **Flutter Developer** from Bangladesh. I love building modern, fast, and scalable mobile applications. My goal is to become a top-level mobile app developer, Insha’Allah.
 
-Assalamu Alaikum Wa Rahmatullah — my name is Md Araful Islam. I am a Flutter developer who loves building clean, functional mobile apps. I enjoy learning and improving every day; Insha'Allah I will grow and succeed through honest work.
+I enjoy writing clean code, exploring new technologies, and continuously improving myself.
 
-**Skills: Dart · Flutter · Firebase · REST API · GetX · Provider · MVC Architecture · Hive · SQLite · Git · Figma · Google Maps API · WebSocket · Push Notifications · Clean Code
+---
 
-🔭 I’m currently working on: Tour & Travel Booking App, Car Rental App, Real‑Time Chat App, Live Tracking App
+## 🔥 Skills & Technologies
 
-🌱 Learning advanced Clean Architecture, State Management, WebSocket, and Backend Integration
+**Mobile Development**
+- Flutter · Dart · Firebase  
+- GetX · Provider · MVC Architecture  
+- Clean Architecture · State Management  
+- REST API Integration · WebSocket · Hive / SQLite  
 
-👯 Open to collaboration on Flutter & Full‑Stack Mobile Projects
+**Design & Tools**
+- Git · GitHub · Figma · Postman  
+- Google Maps API  
+- UI/UX design & optimization  
 
+## 💼 Professional Experience
 
-Developing scalable Flutter apps with clean architecture (Provider, GetX, MVC)
+### **Flutter Developer — bdCalling, Bangladesh**  
+*November,2024 – Present*  
+- Developing scalable & production-ready Flutter apps  
+- Integrating REST APIs, Firebase, WebSocket  
+- Implementing real-time chat, notifications & location tracking  
+- Publishing apps to Play Store & managing complete app lifecycle  
+- Enhancing UI/UX and optimizing performance  
 
-Integrating REST APIs, Firebase, WebSocket real‑time features
+## 🌟 Featured Projects (Client)
 
-Building real-time chat, live tracking, notifications & dynamic forms
+### 📱 **Notorious Fitness App**  
+A full-featured fitness app for Android and iOS.  
+[View on App Store](https://apps.apple.com/us/app/notorious-fitness/id6748907248)  
 
-Working on Play Store publishing and app maintenance
+### 📱 **PS Strength App**  
+Fitness & strength training app for Android.  
+[View on Play Store](https://play.google.com/store/apps/details?id=com.psstrengthllc.app&pcampaignid=web_share)  
 
-Improving UI/UX, performance, and code quality
+### 🚗 **Ciao Valet Services App**  
+Ecommerce app for Android and IOS.  
+[View on Play Store](https://play.google.com/store/apps/details?id=com.ciaovaletservices.app&pcampaignid=web_share)  
 
-Connect with me
+### 💄 **Place Me Beauty App**  
+Beauty services booking app for iOS.  
+[View on App Store](https://apps.apple.com/in/app/place-me-beauty/id6752280067)  
 
-✉️ Email: rajuslam39@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/md-araful-islam/
-
-👍 Facebook: https://www.facebook.com/mdarafulislam.raju.73
-
-
-
-Experience
-💼 Current Position
-
-Flutter Developer — Softvence Agency, Bangladesh
-November,2024 — Present
-
-Building modern, scalable Flutter applications for clients
-
-Working with REST APIs, Firebase, Provider, GetX, and custom MVC architecture
-
-Developing real‑time features (chat, notifications, tracking)
-
-Publishing apps to Play Store and managing full app lifecycle
-
-Improving UI/UX, performance, and writing clean, maintainable code
-
-💼 Previous Experience
-
-Flutter Intern — Classic IT & Sky Mart, Bangladesh
-April,2024 - October,2024
-
-Completed hands‑on Flutter internship focusing on UI development and API integration
-
-Built small‑scale apps, worked with Firebase, REST APIs, and local storage
-
-Gained experience with responsive UI, state management, and debugging
+### 🎥 **YouTube Demo / Tutorial**  
+Live demo and explanation video of client projects.  
+[Watch on YouTube](https://www.youtube.com/watch?si=7BgKqoF_1RZ0Ursj&v=wH7HWEHWNxg&feature=youtu.be)  
 
 
-💼 Additional Professional Work
 
-Published 5+ Flutter projects on CodeCanyon Marketplace
+### **Flutter Intern — Classic IT & Sky Mart**  
+April,2024  - October,2024  
+- Worked on multiple client-based mobile apps  
+- Learned Flutter basics, state management & clean UI design  
 
-Built complete apps such as:
-
-✔️ Tour & Travel Booking App
-
-✔️ Car Rental Booking App
-
-
-Experienced in Play Store publishing, branding, app setup & maintenance
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
