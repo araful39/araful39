@@ -72,7 +72,7 @@ Live demo and explanation video of client projects.
 
 
 
-### **Flutter Intern — Classic IT & Sky Mart**  
+### ** Jr.Flutter  — Classic IT & Sky Mart**  
 April,2024  - October,2024  
 - Worked on multiple client-based mobile apps  
 - Learned Flutter basics, state management & clean UI design  
