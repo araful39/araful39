@@ -22,7 +22,7 @@ I enjoy writing clean code, exploring new technologies, and continuously improvi
 - Animation & Custom UI Widgets · Lottie · Rive  
 
 **Web & Backend Development**  
-- JavaScript · Node.js · Express.js · MongoDB  
+- JavaScript · Node.js · Express.js ·MySql· MongoDB
 - REST API Development · Real-time features (WebSocket / Socket.IO)  
 - Authentication & Authorization · JWT · Firebase Integration  
 - MVC Architecture & Backend Optimization  
