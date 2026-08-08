@@ -78,26 +78,6 @@ April,2024  - October,2024
 - Learned Flutter basics, state management & clean UI design  
 
 
-## 💎 My CodeCanyon Products
-
-I have **5 approved CodeCanyon products** published, including the following:
-
-- **Go Travel Flutter** — Full UI template for Tour & Travels apps  
-  [View on CodeCanyon](https://codecanyon.net/item/go-travel-flutter-full-ui-for-tour-and-travels/53875790)  
-
-- **Car Rental Flutter App** — Full UI template for Car Rental services  
-  [View on CodeCanyon](https://codecanyon.net/item/car-rental-flutter-app-flutter-full-ui-template/54128439)  
-
-- **BirdBuy Online Bird Buy App** — Online marketplace app for buying birds (Flutter)  
-  [View on CodeCanyon](https://codecanyon.net/item/birdbuy-online-bird-buy-app-flutter-mobile-template-full-app-flutter-3x-android-ios/54738417)  
-
-- **PetFoodi Online Pet Foods App** — Full Flutter app template for pet food ordering & delivery  
-  [View on CodeCanyon](https://codecanyon.net/item/petfoodi-online-pet-foods-app-in-full-app-flutter-mobile-template-flutter-3x-android-ios/54741625)  
-
-- **Toolbox Pro Online Tools & Parts Finder** — App template for tools/parts finder & eCommerce (Flutter)  
-  [View on CodeCanyon](https://codecanyon.net/item/toolbox-pro-online-tools-parts-finder-app-in-full-app-flutter-mobile-template-flutter-3x-an/54818018)  
-
-
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
